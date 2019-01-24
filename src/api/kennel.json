@@ -51,6 +51,18 @@
       "id": 10,
       "name": "Rose from titanic",
       "breed": "Not Frozen"
+    },
+    {
+      "name": "Baxter",
+      "breed": "Yorkie",
+      "employeeId": 11,
+      "id": 11
+    },
+    {
+      "name": "Baxter",
+      "breed": "Yorkie",
+      "employeeId": 11,
+      "id": 12
     }
   ],
   "locations": [

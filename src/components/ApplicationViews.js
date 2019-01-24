@@ -89,7 +89,7 @@ export default class ApplicationViews extends Component {
 
     //   Add animal
     addAnimal = (animal) => AnimalManager.post(animal)
-  .then(() => AnimalManager.getAll())
+  .then(() => AnimalManager.getAllAnimals())
   .then(animals => this.setState({
       animals: animals
     })

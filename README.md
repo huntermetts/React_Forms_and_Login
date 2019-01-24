@@ -1,3 +1,5 @@
-# Click an animal, employee, or owner and get details about them!
+# You now must login to access any part of the app!
 
-![](details.gif)
+## After logging in, you can now add an animal, employee, or an owner!
+
+![](chap8_9.gif)
